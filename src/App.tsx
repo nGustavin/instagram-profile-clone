@@ -54,6 +54,7 @@ function App() {
               <div className="description">
                 <h2> Juliana Maransaldi </h2>
                 <span>CS:GO & VALORANT player for <a href="#">@Dignitas</a></span>
+                <span>✉️ comercial@surecomunicacao.com.br</span>
                 <h3>Followed by <span>guizaokermen</span>, <span>pabloxrm</span>, <span>goforgaming</span> +75 more</h3>
               </div>
               <div className="network">
@@ -68,3 +69,8 @@ function App() {
 }
 
 export default App;
+
+//935 130
+
+//115 130
+

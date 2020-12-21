@@ -129,8 +129,9 @@ export const ProfileInfo = styled.div`
 
             span a{
                 text-decoration: none;
+                color: #00376b;
             }
-            span{
+            span + span{
                 font-size: 16px;
                 margin-bottom: 13px;
             }
