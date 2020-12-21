@@ -7,7 +7,7 @@ export const Container = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    outline: 0.6px solid rgba(0, 0, 0, 0.4);
+    outline: 0.2px solid rgba(0, 0, 0, 0.2);
     background: #ffffff;
 
     >#header-wrapper{
@@ -38,6 +38,8 @@ export const Container = styled.div`
         background: #fafafa;
         padding: 7px;
         border-radius: 4px;
+        text-align: center;
+        border: 0.4px solid rgba(0, 0, 0, 0.2);
     }
 
     >.buttons{

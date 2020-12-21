@@ -16,9 +16,9 @@ const Header: React.FC = () => {
           <div className="image-container">
             <img src={instagramLogo} alt="instagram-logo"/>
           </div>
-          <input type="text"/>
+          <input type="text" placeholder="Search"/>
           <div className="buttons">
-            <BiHomeAlt size={24}/>
+            <BiHomeAlt size={24} />
             <FiSend size={24}/>
             <FaRegCompass size={24}/>
             <FiHeart size={24}/>
