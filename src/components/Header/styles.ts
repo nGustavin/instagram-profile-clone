@@ -10,6 +10,9 @@ export const Container = styled.div`
     outline: 0.2px solid rgba(0, 0, 0, 0.2);
     background: #ffffff;
 
+    position: absolute;
+    top: 0px;
+
     >#header-wrapper{
         width: 975px;
         height: 100%;
@@ -40,6 +43,12 @@ export const Container = styled.div`
         border-radius: 4px;
         text-align: center;
         border: 0.4px solid rgba(0, 0, 0, 0.2);
+
+        ::placeholder{
+            font-size: 15px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+        }
     }
 
     >.buttons{
