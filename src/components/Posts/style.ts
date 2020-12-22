@@ -53,14 +53,14 @@ export const Photo = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 25px;
+    gap: 35px;
     cursor: pointer;
     
     div{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        gap: 2px;
+        gap: 5px;
         height: 100%;
         opacity: 0;
         
@@ -68,6 +68,7 @@ export const Photo = styled.div`
             background: none;
             font-size: 17px;
             color: white;
+            margin-bottom: 3px;
         }
     }
 
