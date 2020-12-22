@@ -9,11 +9,11 @@ const Posts: React.FC = () => {
     <>
     <Container>
       <Tabs>
-        <div style={{borderTop: '1px solid rgba(0, 0, 0, 0.6)'}} >
+        <div style={{borderTop: '1px solid rgba(0, 0, 0, 1)', padding: '0px 0px 0px 6px'}} >
           <BsGrid3X3 size={12}/>
           <h1>POSTS</h1>
         </div>
-        <div>
+        <div style={{opacity: '0.3'}} >
           <MdPortrait />
           <h1>TAGGED</h1>
         </div>

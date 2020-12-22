@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
     width: 100%;
     height: 53px;
-    background: orange;
+    background: #fafafa;;
     border-top: 1px solid rgba(0, 0, 0, 0.2);
     display: flex;
     flex-direction: column;
@@ -15,13 +15,13 @@ export const Tabs = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 25px;
+    gap: 45px;
 
     > div{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        width: 61px;
+        width: 71px;
         height: 100%;
         cursor: pointer;
 
@@ -43,7 +43,7 @@ export const PhotoGrid = styled.div`
     grid-gap: 15px;
     overflow-y: visible;
 `
-export const Photo = styled.div`
+export const Photo = styled.img`
     background: green;
     width: 100%;
     height: 100%;

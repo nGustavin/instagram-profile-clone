@@ -10,6 +10,7 @@ export const Landing = styled.div`
   align-items: center;
   position: absolute;
   overflow-y: hidden;
+  padding: 0px 2px 0px 0px;
     
 `
 
@@ -28,12 +29,13 @@ export const Wrapper = styled.div`
 /* Track */
 ::-webkit-scrollbar-track {
   background: #fafafa;
-
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: blue;
+  background: rgb(249,157,76);
+  background: linear-gradient(67deg, rgba(249,157,76,1) 0%, rgba(195,46,146,1) 100%);
+  border-radius: 50px;
 }
 
 /* Handle on hover */
