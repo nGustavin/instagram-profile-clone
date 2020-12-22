@@ -35,7 +35,7 @@ export const Tabs = styled.div`
 `
 export const PhotoGrid = styled.div`
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-auto-rows: 310px;
