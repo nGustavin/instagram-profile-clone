@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Container, Tabs, PhotoGrid, Photo } from './style';
-import { BsGrid3X3 } from 'react-icons/bs'
+import { BsCardText, BsFillChatSquareDotsFill, BsGrid3X3, BsHeartFill } from 'react-icons/bs'
 import { MdPortrait } from 'react-icons/md'
 
 const Posts: React.FC = () => {
@@ -21,27 +21,17 @@ const Posts: React.FC = () => {
       
     </Container>
     <PhotoGrid>
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
-    <Photo />
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    
   </PhotoGrid>
   </>  
   );

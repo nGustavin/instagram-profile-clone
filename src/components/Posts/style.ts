@@ -42,10 +42,40 @@ export const PhotoGrid = styled.div`
     padding: 0px 0px 20px 0px;
     grid-gap: 15px;
     overflow-y: visible;
+    
 `
-export const Photo = styled.img`
-    background: green;
+export const Photo = styled.div`
+    background: rgb(249,157,76);
+    background: linear-gradient(67deg, rgba(249,157,76,1) 0%, rgba(195,46,146,1) 100%);
     width: 100%;
     height: 100%;
+    transition: 0.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    cursor: pointer;
+    
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 2px;
+        height: 100%;
+        opacity: 0;
+        
+        h1{
+            background: none;
+            font-size: 17px;
+            color: white;
+        }
+    }
+
+    :hover{
+        box-shadow: inset 0px 0px 30px 310px rgba(0, 0, 0, 0.3);
+        >div{
+            opacity:1;
+        }
+    }
 
 `
