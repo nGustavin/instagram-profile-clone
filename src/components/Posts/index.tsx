@@ -31,6 +31,177 @@ const Posts: React.FC = () => {
       <h1> 529 </h1>
       </div>
     </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+     <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+    <Photo>
+      <div>
+      <BsHeartFill fill={'white'} size={17}/>
+      <h1> 2.5k </h1>
+      </div>
+      <div>
+      <BsFillChatSquareDotsFill fill={'white'} size={17}/>
+      <h1> 529 </h1>
+      </div>
+    </Photo>
+  
     
   </PhotoGrid>
   </>  
