@@ -1,0 +1,2 @@
+BsGrid3X3 - grid icon
+MdPortrait - tagged icon

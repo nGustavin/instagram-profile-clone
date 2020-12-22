@@ -8,6 +8,8 @@ export const Container = styled.div`
     justify-content: flex-start;
     align-items: center;
     margin-bottom: 44px;
+    gap: 10px;
+    overflow-x: auto;
 `
 
 export const Title = styled.h1`

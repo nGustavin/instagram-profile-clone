@@ -2,32 +2,31 @@ import React from 'react'
 
 import { Container, PinContainer ,Title, Story } from './styles'
 
-
 const SavedPins: React.FC = () => {
   return (
       <Container>
           <PinContainer>
-              <Story />
+              <Story style={{background: ''}} />
               <Title>
-                  Make
+                  Trip
               </Title>
           </PinContainer>
           <PinContainer>
-              <Story />
+              <Story style={{background: '#dafde5'}}/>
               <Title>
                   Me
               </Title>
           </PinContainer>
           <PinContainer>
-              <Story />
+              <Story style={{background: '#fd817f'}}/>
               <Title>
-                  Anjos
+                  Friends
               </Title>
           </PinContainer>
           <PinContainer>
-              <Story />
+              <Story style={{background: '#9cdaf3'}} />
               <Title>
-                  Musica
+                  Music
               </Title>
           </PinContainer>
       </Container>

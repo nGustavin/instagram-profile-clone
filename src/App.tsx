@@ -3,6 +3,7 @@ import Header from './components/Header/index'
 import Profile from './components/ProfileInfo/index'
 import {Landing, Wrapper} from './styles/landing'
 import SavedPins from './components/SavedPins'
+import Posts from './components/Posts'
 
 function App() {
   return (
@@ -13,7 +14,9 @@ function App() {
         <Wrapper>
           <Profile />
           <SavedPins />
+          <Posts/>
         </Wrapper>
+        
       </Landing>
     </div>
   );

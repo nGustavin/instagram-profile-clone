@@ -6,6 +6,26 @@ export default createGlobalStyle`
         box-sizing: border-box;
         padding: 0px;
         overflow-x: hidden;
+        overflow-y: visible;
+
+        ::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: none;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: none;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: none;
+}
     }
 
     body, h1, h2, span, strong, input {
