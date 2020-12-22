@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Container, Tabs, PhotoGrid, Photo } from './style';
-import { BsCardText, BsFillChatSquareDotsFill, BsGrid3X3, BsHeartFill } from 'react-icons/bs'
+import { BsFillChatSquareDotsFill, BsGrid3X3, BsHeartFill } from 'react-icons/bs'
 import { MdPortrait } from 'react-icons/md'
 
 const Posts: React.FC = () => {

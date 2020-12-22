@@ -15,7 +15,7 @@ const Profile: React.FC = () => {
             <div className="info-container">
               <div className="title">
 
-                <h1>showliana</h1>
+                <h1>_gustavofe_</h1>
                 
                 <div className="title-buttons">
                   <button> Message </button>
@@ -49,9 +49,9 @@ const Profile: React.FC = () => {
 
               </div>
               <div className="description">
-                <h2> Juliana Maransaldi </h2>
-                <span>CS:GO & VALORANT player for <a href="#">@Dignitas</a></span>
-                <span>✉️ comercial@surecomunicacao.com.br</span>
+                <h2> Gustavo Fernandes </h2>
+                <span>Software Enginner <a href="#"></a></span>
+                <span>✉️ gust4f3rn@gmail.com</span>
                 <h3>Followed by <span>guizaokermen</span>, <span>pabloxrm</span>, <span>goforgaming</span> +75 more</h3>
               </div>
               <div className="network">
